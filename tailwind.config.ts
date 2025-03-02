@@ -34,7 +34,6 @@ const config: Config = {
           },
         },
       },
-      // ... rest of your existing theme config
     },
   },
   plugins: [
